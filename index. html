@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jelajah Wisata Indonesia</title>
+</head>
+<body>
+
+    <!-- Header & Menu Navigasi -->
+    <table border="1" width="100%">
+        <tr bgcolor="skyblue" align="center">
+            <th colspan="3">
+                <h1>JELAJAH WISATA INDONESIA</h1>
+                <p>Temukan Keindahan Alam dan Budaya Indonesia</p>
+            </th>
+        </tr>
+        <tr align="center">
+            <td><a href="#beranda">Beranda</a></td>
+            <td><a href="#wisata">Wisata</a></td>
+            <td><a href="#galeri">Galeri</a></td>
+        </tr>
+    </table>
+
+    <!-- Section Beranda -->
+    <h2 id="beranda" align="center">Beranda</h2>
+    <p align="center">Selamat datang di website Jelajah Wisata Indonesia. Website ini berisi informasi mengenai beberapa tempat wisata menarik yang ada di Indonesia.</p>
+    <p align="center">Indonesia memiliki banyak sekali destinasi wisata, mulai dari pegunungan, pantai, laut, hingga wisata budaya.</p>
+
+    <!-- Section Destinasi Wisata -->
+    <h2 id="wisata" align="center">Destinasi Wisata</h2>
+    <p align="center">Berikut adalah objek wisata menarik di Jawa Timur:</p>
+
+    <table border="1" width="100%">
+        <tr align="center" valign="top">
+            <td width="33%">
+                <img src="https://images.unsplash.com/photo-1588668214407-6ea9a6d8c272?w=300" width="200">
+                <p><b>Gunung Bromo</b></p>
+                <p>Gunung Bromo merupakan salah satu tempat wisata terkenal yang berada di Jawa Timur.</p>
+            </td>
+            <td width="33%">
+                <img src="https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=300" width="200">
+                <p><b>Kawah Ijen</b></p>
+                <p>Kawah Ijen merupakan salah satu tempat wisata terkenal yang berada di Jawa Timur.</p>
+            </td>
+            <td width="33%">
+                <img src="https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=300" width="200">
+                <p><b>Air Terjun Coban Rondo</b></p>
+                <p>Air Terjun Coban Rondo merupakan salah satu tempat wisata terkenal yang berada di Jawa Timur.</p>
+            </td>
+        </tr>
+    </table>
+
+    <!-- Section Musik Nusantara -->
+    <h2 id="galeri" align="center">Musik Nusantara</h2>
+    <p align="center">Silakan dengarkan musik berikut sambil menikmati informasi wisata Indonesia:</p>
+    <p align="center">
+        <audio controls>
+            <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
+        </audio>
+    </p>
+
+    <!-- Section Video Wonderland Indonesia -->
+    <h2 align="center">Wonderland Indonesia</h2>
+    <p align="center">Silakan melihat video berikut sambil menikmati informasi wisata Indonesia:</p>
+    <p align="center">
+        <video controls width="400">
+            <source src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4" type="video/mp4">
+        </video>
+    </p>
+
+    <!-- Footer -->
+    <p align="center"><small>Contact Person By: Veleryanti Dwi Anggraini, S.Pd., M.Pd</small></p>
+
+</body>
+</html>
